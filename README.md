@@ -29,7 +29,7 @@ Check out my work on
 
 ## 📫 Contact
 
-- 📍 Website: [gabizoc.fr](https://gabizoc.fr) *(soon live)*  
+- 📍 Website: [gabizoc.fr](https://gabizoc.fr)
 
 ---
 
