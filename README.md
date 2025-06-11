@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I’m **Gabizoc**
 
-<!--
-**Gabizoc/gabizoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full‑Stack Developer | Node.js · React · Discord Bot Expert
 
-Here are some ideas to get you started:
+I'm a passionate full‑stack developer. From building powerful Discord bots to designing polished React dashboards, I thrive on crafting digital experiences that just work :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Portfolio
+
+Check out my work on  
+🌐 [gabizoc.fr](https://gabizoc.fr)
+
+- ⚙️ Live projects, dashboards, bots, and tools  
+- 🧠 Clean design, sharp UX, full responsiveness  
+- 🔒 Hosted & optimized for speed and reliability
+
+---
+
+## 🛠 Tech Stack
+
+- **Languages**: JavaScript, HTML, CSS  
+- **Frontend**: React, TailwindCSS, Framer Motion  
+- **Backend**: Node.js, Express, WebSocket  
+- **Database**: MySQL, MongoDB  
+- **Tools**: Git, PM2, Nginx, Docker  
+
+---
+
+## 📫 Contact
+
+- 📍 Website: [gabizoc.fr](https://gabizoc.fr) *(soon live)*  
+
+---
+
+## 🧩 Fun Facts
+
+- Built my first full-featured panel before 18  
+- Fan of tech  
+
+---
+
+> **– Gabizoc**
