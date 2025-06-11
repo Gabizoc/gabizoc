@@ -6,17 +6,6 @@ I'm a passionate full‑stack developer. From building powerful Discord bots to 
 
 ---
 
-## 🚀 Portfolio
-
-Check out my work on  
-🌐 [gabizoc.fr](https://gabizoc.fr)
-
-- ⚙️ Live projects, dashboards, bots, and tools  
-- 🧠 Clean design, sharp UX, full responsiveness  
-- 🔒 Hosted & optimized for speed and reliability
-
----
-
 ## 🛠 Tech Stack
 
 - **Languages**: JavaScript, HTML, CSS  
@@ -29,7 +18,7 @@ Check out my work on
 
 ## 📫 Contact
 
-- 📍 Website: [gabizoc.fr](https://gabizoc.fr)
+- 📍 Portfolio: [gabizoc.fr](https://gabizoc.fr)
 
 ---
 
