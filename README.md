@@ -26,7 +26,3 @@ I'm a passionate full‑stack developer. From building powerful Discord bots to 
 
 - Built my first full-featured panel before 18  
 - Fan of tech  
-
----
-
-> **– Gabizoc**
